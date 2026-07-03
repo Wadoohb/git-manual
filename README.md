@@ -1,5 +1,5 @@
 
-# 🚀 GIT Y GITHUB 
+# 🚀 Git-manual 
 
 ## 1. Configuración
 
