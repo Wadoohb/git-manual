@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/git.png" width="100%">
+</p>
 # 🚀 Git-manual 
 
 ## 1. Configuración
